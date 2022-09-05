@@ -14,8 +14,8 @@ this project is a medical Consultation app that has just 3 Screens:
 the apk file is stored in folder called apk file
 
 the screens are shown below
-![Flutter Medical](https://github.com/clasypukka/Flutter-Medical/blob/master/Onboarding.png)
-![Flutter Medical](https://github.com/clasypukka/Flutter-Medical/blob/master/home.png)
+![Flutter-Medical](https://github.com/clasypukka/Flutter-Medical/blob/master/Onboarding.png)
+![Flutter-Medical](https://github.com/clasypukka/Flutter-Medical/blob/master/home.png)
 
 
 
